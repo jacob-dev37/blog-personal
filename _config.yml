@@ -1,7 +1,7 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: pretty
-paginate: 1
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -10,7 +10,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Soot Spirits
+title : Jacob Dev
 tagline: Code, Science, Philosophy, Humor
 author :
   name : Abhishek Nagekar

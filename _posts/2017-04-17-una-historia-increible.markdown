@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum
+title: Una historia increible
 layout: post
 ---
 ## Lorem ipsum dolor sit amet
